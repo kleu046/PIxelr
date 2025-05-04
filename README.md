@@ -1,0 +1,1 @@
+This is an app for designing pixel art built using Pygame
